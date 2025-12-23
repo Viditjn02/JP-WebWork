@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Avantgarde';
+  src: url('/fonts/Avgardd.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avantgarde';
+  src: url('/fonts/Avgarddo.ttf') format('truetype');
+  font-weight: bold;
+  font-style: oblique;
+}
+
+@font-face {
+  font-family: 'Avantgarde';
+  src: url('/fonts/Avgardn.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avantgarde';
+  src: url('/fonts/Avgardni.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
