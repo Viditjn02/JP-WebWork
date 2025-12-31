@@ -23,8 +23,8 @@ export const Header: React.FC = () => {
       <div className="container mx-auto px-4 md:px-6">
         <div className="flex h-20 items-center justify-between">
           <Link to="/" className="flex items-center gap-3">
-            <img src="/assets/logo-optimized.png" alt="JainPackwell Pvt Ltd." className="h-12 w-auto" />
-            <span className="text-2xl font-bold text-brand-blue" style={{ fontFamily: 'Avantgarde, sans-serif' }}>JainPackwell Pvt Ltd.</span>
+            <img src="/assets/logo-optimized.png" alt="Jain Packwell Pvt Ltd." className="h-12 w-auto" />
+            <span className="text-2xl font-bold text-brand-blue" style={{ fontFamily: 'Avantgarde, sans-serif' }}>Jain Packwell Pvt Ltd.</span>
           </Link>
 
           {/* Desktop Navigation */}

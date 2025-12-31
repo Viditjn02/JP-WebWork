@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-6" style={{ fontFamily: 'Avantgarde, sans-serif' }}>JainPackwell Pvt Ltd.</h3>
+            <h3 className="text-xl font-bold mb-6" style={{ fontFamily: 'Avantgarde, sans-serif' }}>Jain Packwell Pvt Ltd.</h3>
             <p className="text-gray-400 text-sm leading-relaxed mb-6">
               Leading provider of innovative and sustainable packaging solutions since 1973. We elevate brands through offset printing excellence and premium quality structures.
             </p>
